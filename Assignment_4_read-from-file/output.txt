@@ -1,0 +1,36 @@
+Student 1 exam statistics: 
+Exam scores: 91 92 85 58 87 75 89 97 79 65 
+Maximum score: 97, Grade: A+
+Minimum score: 58, Grade: F
+Average score: 81.80, Grade: B-
+
+Student 2 exam statistics: 
+Exam scores: 88 72 81 94 90 61 72 75 68 77 
+Maximum score: 94, Grade: A-
+Minimum score: 61, Grade: D
+Average score: 77.80, Grade: C+
+
+Student 3 exam statistics: 
+Exam scores: 75 49 87 79 65 64 62 51 44 70 
+Maximum score: 87, Grade: B+
+Minimum score: 44, Grade: F
+Average score: 64.60, Grade: D
+
+Student 4 exam statistics: 
+Exam scores: 81 72 85 78 77 75 79 87 69 55 
+Maximum score: 87, Grade: B+
+Minimum score: 55, Grade: F
+Average score: 75.80, Grade: C+
+
+Student 5 exam statistics: 
+Exam scores: 88 62 71 74 80 71 62 85 68 87 
+Maximum score: 88, Grade: B+
+Minimum score: 62, Grade: D
+Average score: 74.80, Grade: C-
+
+Student 6 exam statistics: 
+Exam scores: 75 89 97 79 65 48 72 61 64 90 
+Maximum score: 97, Grade: A+
+Minimum score: 48, Grade: F
+Average score: 74.00, Grade: C-
+
