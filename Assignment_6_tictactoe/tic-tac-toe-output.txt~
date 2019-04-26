@@ -1,0 +1,124 @@
+Starting board:
+
+R\C 0,1,2
+0   _ _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   O _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   O X _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   O X _ 
+2   O _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   O X _ 
+2   O _ X 
+Winner is player 1 (X)!
+Play again? (Y/N) y 
+
+R\C 0,1,2
+0   _ _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   _ O _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   _ O _ 
+2   X _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   _ O _ 
+2   X O _ 
+Winner is player 2 (O)!
+Play again? (Y/N) y 
+
+R\C 0,1,2
+0   _ _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X _ _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O _ 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   _ _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   O _ _ 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   O _ X 
+2   _ _ _ 
+
+R\C 0,1,2
+0   X O X 
+1   O _ X 
+2   _ _ O 
+
+R\C 0,1,2
+0   X O X 
+1   O _ X 
+2   _ X O 
+
+R\C 0,1,2
+0   X O X 
+1   O O X 
+2   _ X O 
+
+R\C 0,1,2
+0   X O X 
+1   O O X 
+2   X X O 
+
+Board full, this game is a draw!
+Play again? (Y/N) n 
+end game
