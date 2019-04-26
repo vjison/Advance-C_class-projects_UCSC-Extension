@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464190681 source:/home/vincej/CodeBlocks/Advance-C_UCSC/Assignment_7_queens/ProjectFolder/queens_assignment-7/main.c
+	<stdio.h>
+	<stdbool.h>
+

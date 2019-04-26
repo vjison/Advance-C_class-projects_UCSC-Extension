@@ -1,0 +1,138 @@
+Hello, which column (0-7) of row 0 would you like to place the first queen? 4
+* * * * U * * * 
+
+Q * * * * * * * 
+
+* * * Q * * * * 
+
+* * * * * Q * * 
+
+* * * * * * * Q 
+
+* Q * * * * * * 
+
+* * * * * * Q * 
+
+* * Q * * * * * 
+
+Next column? (press 'x' to quit) 2
+* * U * * * * * 
+
+Q * * * * * * * 
+
+* * * * * * Q * 
+
+* * * * Q * * * 
+
+* * * * * * * Q 
+
+* Q * * * * * * 
+
+* * * Q * * * * 
+
+* * * * * Q * * 
+
+Next column? (press 'x' to quit) 9
+9 is an invalid argument, please select a number between 0 - 7: 6
+* * * * * * U * 
+
+Q * * * * * * * 
+
+* * Q * * * * * 
+
+* * * * * * * Q 
+
+* * * * * Q * * 
+
+* * * Q * * * * 
+
+* Q * * * * * * 
+
+* * * * Q * * * 
+
+Next column? (press 'x' to quit) 3
+* * * U * * * * 
+
+Q * * * * * * * 
+
+* * * * Q * * * 
+
+* * * * * * * Q 
+
+* Q * * * * * * 
+
+* * * * * * Q * 
+
+* * Q * * * * * 
+
+* * * * * Q * * 
+
+Next column? (press 'x' to quit) 0
+U * * * * * * * 
+
+* * * * Q * * * 
+
+* * * * * * * Q 
+
+* * * * * Q * * 
+
+* * Q * * * * * 
+
+* * * * * * Q * 
+
+* Q * * * * * * 
+
+* * * Q * * * * 
+
+Next column? (press 'x' to quit) 5
+* * * * * U * * 
+
+Q * * * * * * * 
+
+* * * * Q * * * 
+
+* Q * * * * * * 
+
+* * * * * * * Q 
+
+* * Q * * * * * 
+
+* * * * * * Q * 
+
+* * * Q * * * * 
+
+Next column? (press 'x' to quit) 1
+* U * * * * * * 
+
+* * * Q * * * * 
+
+* * * * * Q * * 
+
+* * * * * * * Q 
+
+* * Q * * * * * 
+
+Q * * * * * * * 
+
+* * * * * * Q * 
+
+* * * * Q * * * 
+
+Next column? (press 'x' to quit) 7
+* * * * * * * U 
+
+* Q * * * * * * 
+
+* * * Q * * * * 
+
+Q * * * * * * * 
+
+* * * * * * Q * 
+
+* * * * Q * * * 
+
+* * Q * * * * * 
+
+* * * * * Q * * 
+
+Next column? (press 'x' to quit) x

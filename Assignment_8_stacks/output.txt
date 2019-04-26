@@ -1,0 +1,31 @@
+
+Contents read from file: 
+{x + (y – [a + b] ) * (c – [ (d + e) ] + k )} / (h – (j – (k –[l – n] ) ) ) + { u + [m * (p – q)] / r }
+
+pushing { onto stack
+pushing ( onto stack
+pushing [ onto stack
+Closing scope ] found, popping [ from stack
+Closing scope ) found, popping ( from stack
+pushing ( onto stack
+pushing [ onto stack
+pushing ( onto stack
+Closing scope ) found, popping ( from stack
+Closing scope ] found, popping [ from stack
+Closing scope ) found, popping ( from stack
+Closing scope } found, popping { from stack
+pushing ( onto stack
+pushing ( onto stack
+pushing ( onto stack
+pushing [ onto stack
+Closing scope ] found, popping [ from stack
+Closing scope ) found, popping ( from stack
+Closing scope ) found, popping ( from stack
+Closing scope ) found, popping ( from stack
+pushing { onto stack
+pushing [ onto stack
+pushing ( onto stack
+Closing scope ) found, popping ( from stack
+Closing scope ] found, popping [ from stack
+Closing scope } found, popping { from stack
+All opening and closing scopes verified. The expression is valid.
